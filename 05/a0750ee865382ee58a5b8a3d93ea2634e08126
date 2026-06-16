@@ -1,0 +1,20 @@
+dmtools-core/src/test/java/com/github/istin/dmtools/gitlab/model/GitLabCommitTest.java
+  s_6d7bbcf9ec31d6::t_6cd7df9113802b 45,47-65
+  s_6d7bbcf9ec31d6::t_4b04812013e1cf 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "05a0750ee865382ee58a5b8a3d93ea2634e08126",
+  "prompts": {},
+  "sessions": {
+    "s_6d7bbcf9ec31d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2aba313e-f463-40eb-a210-07c2e88bdba3",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "AI Teammate <ai-teammate@eckoh.com>"
+    }
+  }
+}
